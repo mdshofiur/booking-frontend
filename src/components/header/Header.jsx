@@ -52,6 +52,9 @@ const Header = ({ type }) => {
     navigate("/hotel", { state: { destination, dates, options } });
   };
 
+
+
+
   return (
     <div className="header">
       <div
